@@ -53,6 +53,7 @@ GEM
       erubis (~> 2.7.0)
       rails-dom-testing (~> 2.0)
       rails-html-sanitizer (~> 1.0, >= 1.0.2)
+    active_skin (0.0.12)
     activejob (5.0.0)
       activesupport (= 5.0.0)
       globalid (>= 0.3.6)
@@ -220,6 +221,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  active_skin
   activeadmin!
   byebug
   coffee-rails (~> 4.2)
